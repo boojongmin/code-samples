@@ -5,13 +5,15 @@
 
 ##### 코드 샘플은 랭귀지별  브랜치로 관리됩니다.
 
-Lang|Build|Version|Branch URL | ETC
---|--|--|--|--
-JAVA | maven | 1.8 | [go]() | 
-SCALA | sbt | 2.11|[go]() | 
-GO | | | [go]() | 
-PYTHON | - | | [go]() | 
-NODE | npm | | [go]() | 
-CLOJURE | leiningen| | [go]() | 
-HASKELL | | | [go]() | 
+
+| Lang | Build | Version | BranchURL | ETC |
+|-------|:----:|:-------:|:--:|:--:|
+|JAVA | maven | 1.8 | [go]() |  |
+|SCALA | sbt | 2.11|[go]() |  |
+|GO | | | [go]() |  |
+|PYTHON | - | | [go]() |  |
+|NODE | npm | | [go]() |  |
+|CLOJURE | leiningen| | [go]() |  |
+|HASKELL | | | [go]() |  |
+
 
