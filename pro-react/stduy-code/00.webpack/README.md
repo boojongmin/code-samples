@@ -1,3 +1,3 @@
 ```
-npm install --save-dev extract-text-webpack-plugin
+node_modules/.bin/webpack --config ./webpack.production.config.js --progress
 ```
