@@ -1,10 +1,4 @@
 ```
-http://localhost:8080/bundle.js 접속
-
-/*! Copyright Flying Unicorns inc. */
-/******/ (function(modules) { // webpackBootstrap
-/******/ 	// The module cache
-/******/ 	var installedModules = {};
-...중략
-
+npm install --save-dev html-webpack-plugin
+npm install --save-dev babel-plugin-react-transform react-transform-hmr
 ```
