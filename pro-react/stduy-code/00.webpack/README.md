@@ -1,4 +1,5 @@
 ```
-npm install --save-dev style-loader css-loader
+npm install --save-dev postcss-loader autoprefixer
 ```
+[autoprefixer](https://github.com/postcss/autoprefixer)
 
