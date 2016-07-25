@@ -1,4 +1,3 @@
 ```
-npm install --save-dev html-webpack-plugin
-npm install --save-dev babel-plugin-react-transform react-transform-hmr
+npm install --save-dev extract-text-webpack-plugin
 ```
