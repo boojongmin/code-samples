@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d300877d-b79d-48ee-ae7c-1b5d96c27262" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/Config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/README.md" afterPath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/Greeter.js" afterPath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/Greeter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/main.js" afterPath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/package.json" afterPath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/webpack.config.js" afterPath="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/webpack.config.js" />
     </list>
@@ -33,7 +34,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-5.230769">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
@@ -43,8 +44,8 @@
       <file leaf-file-name="Greeter.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/Greeter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10914928">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.1364366">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -54,17 +55,7 @@
         <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -73,8 +64,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,8 +87,14 @@
         <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+              <folding>
+                <marker date="1469431926000" expanded="true" signature="17:681" placeholder="{&quot;devtool&quot;: 'eval-source-map'...}" />
+                <marker date="1469431926000" expanded="true" signature="190:544" placeholder="{...}" />
+                <marker date="1469431926000" expanded="true" signature="209:538" placeholder="[...]" />
+                <marker date="1469431926000" expanded="true" signature="316:528" placeholder="{&quot;test&quot;: /\.js$/...}" />
+                <marker date="1469431926000" expanded="true" signature="446:514" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,8 +112,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state vertical-scroll-proportion="-3.9230769">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -140,15 +137,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/main.js" />
-        <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/package.json" />
         <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/public/index.html" />
-        <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/README.md" />
-        <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/webpack.config.js" />
         <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/Config.json" />
+        <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/package.json" />
+        <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/webpack.config.js" />
+        <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/README.md" />
+        <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/main.js" />
         <option value="$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/Greeter.js" />
       </list>
     </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path>/usr/local/bin/bower</exe-path>
+    <config-path />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -301,12 +302,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="GO_FMT" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1011,7 +1017,7 @@
       <updated>1469397662932</updated>
       <workItem from="1469397665110" duration="1927000" />
       <workItem from="1469407028390" duration="1161000" />
-      <workItem from="1469431278976" duration="498000" />
+      <workItem from="1469431278976" duration="1530000" />
     </task>
     <task id="LOCAL-00001" summary="p394 첫 번째 빌드 실행 &#10;">
       <created>1469399218095</created>
@@ -1031,11 +1037,17 @@
       <option name="project" value="LOCAL" />
       <updated>1469431320224</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="p401 로더">
+      <created>1469431788677</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1469431788677</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3586000" />
+    <option name="totallyTimeSpent" value="4618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1454" y="-1139" width="1358" height="1247" extended-state="0" />
@@ -1078,7 +1090,8 @@
     <MESSAGE value="p394 첫 번째 빌드 실행 &#10;" />
     <MESSAGE value="p396 구성 파일 정의 &#10;" />
     <MESSAGE value="p396 웹팩 개발 서버" />
-    <option name="LAST_COMMIT_MESSAGE" value="p396 웹팩 개발 서버" />
+    <MESSAGE value="p401 로더" />
+    <option name="LAST_COMMIT_MESSAGE" value="p401 로더" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1146,7 +1159,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
+          <folding>
+            <marker date="1469431926000" expanded="true" signature="17:681" placeholder="{&quot;devtool&quot;: 'eval-source-map'...}" />
+            <marker date="1469431926000" expanded="true" signature="190:544" placeholder="{...}" />
+            <marker date="1469431926000" expanded="true" signature="209:538" placeholder="[...]" />
+            <marker date="1469431926000" expanded="true" signature="316:528" placeholder="{&quot;test&quot;: /\.js$/...}" />
+            <marker date="1469431926000" expanded="true" signature="446:514" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1182,14 +1201,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1200,7 +1211,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-5.230769">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
@@ -1216,30 +1227,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/Config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.65384614">
@@ -1248,13 +1235,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/Greeter.js">
+    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10914928">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state vertical-scroll-proportion="-3.9230769">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <marker date="1469431926000" expanded="true" signature="17:681" placeholder="{&quot;devtool&quot;: 'eval-source-map'...}" />
+            <marker date="1469431926000" expanded="true" signature="190:544" placeholder="{...}" />
+            <marker date="1469431926000" expanded="true" signature="209:538" placeholder="[...]" />
+            <marker date="1469431926000" expanded="true" signature="316:528" placeholder="{&quot;test&quot;: /\.js$/...}" />
+            <marker date="1469431926000" expanded="true" signature="446:514" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/node_modules/react/lib/React.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0369182">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/node_modules/react/react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro-react/stduy-code/00.webpack/app/Greeter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1364366">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7.10 (/usr/bin/python) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python|code-samples</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
